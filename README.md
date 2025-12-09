@@ -7,12 +7,10 @@
 | Rasya Audrea Bramantya Wijaya            | 5054241034      |
 | Ahnaf Tsabit Attaqi            | 5054231012      |
 
-## Skenario 1 - Perbandingan Model Machine Learning dengan Fitur EfficientNet
+## Skenario 1 - Perbandingan Model Machine Learning dengan Ekstraksi Fitur EfficientNet
 
-## Skenario 2 - Perbandingan Model Machine Learning dengan Fitur ResNet
+## Skenario 2 - Perbandingan Model Machine Learning dengan Ekstraksi Fitur ResNet
 
-## Skenario 3 - Perbandingan Hybrid vs. Deep Learning Full Training
+## Skenario 3 - Perbandingan Penggunaan Scaling dan Normalisasi dalam training
 
-## Skenario 4 - Perbandingan Menggunakan Scaling vs Tanpa Scaling pada Fitur
-
-## Skenario 5 - Perbandingan Menggunakan Normalisasi (Preprocessing) vs Tanpa Normalisasi
+## Skenario 4 - Perbandingan Model EfficientNet dan ResNet
